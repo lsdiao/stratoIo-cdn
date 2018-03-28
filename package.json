@@ -1,0 +1,19 @@
+{
+  "name": "stratio",
+  "version": "1.0.0",
+  "description": "仅调用stratoIo cdn 方便node 调用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsdiao/stratoIo-cdn.git"
+  },
+  "author": "chenjie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lsdiao/stratoIo-cdn/issues"
+  },
+  "homepage": "https://github.com/lsdiao/stratoIo-cdn#readme"
+}
